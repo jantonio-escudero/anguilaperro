@@ -1,4 +1,5 @@
 anguilaperro
 ============
 
-AnguilaPerro Project 
+AnguilaPerro Project
+by José Antonio Escudero 
